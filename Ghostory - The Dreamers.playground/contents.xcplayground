@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Chapter 1 - A ghost in a spooky night'/>
+        <page name='Chapter 2 - A scary encounter'/>
+        <page name='Chapter 3 - A scary duo'/>
+        <page name='Chapter 4 - Trick or Treat?'/>
+    </pages>
+</playground>
